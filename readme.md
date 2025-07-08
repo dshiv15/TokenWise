@@ -1,6 +1,6 @@
 # 🚀 TokenWise: Real-Time Wallet Intelligence on Solana
 
-**TokenWise** is a real-time wallet intelligence tool built to monitor and analyze wallet behavior for a specific Solana token [`9BB6NFEcjBCtnNLFko2FqVQBq8HHM13kCyYcdQbgpump`]. It fetches top wallet holders, tracks token transactions, and visualizes insights through a custom **neon-themed Streamlit dashboard**.
+**TokenWise** is a real-time wallet intelligence tool built to monitor and analyze wallet behavior for a specific Solana token. It fetches top wallet holders, tracks token transactions, and visualizes insights through a custom **neon-themed Streamlit dashboard**.
 
 ---
 
@@ -90,8 +90,6 @@ streamlit run app.py
 ---
 
 ## 📊 Dashboard Features
-
-Open [http://localhost:8501](http://localhost:8501) to view the dashboard.
 
 ### Key Modules:
 
