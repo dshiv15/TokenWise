@@ -117,7 +117,6 @@ streamlit run app.py
     "isBuy": true,
     "protocol": "Jupiter"
   },
-  ...
 ]
 ```
 
